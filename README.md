@@ -1,7 +1,7 @@
 smile :)
 
 
-I'm Mohammad a boring studend of Aerospace engineering that love to program as an stupid way and create very bad codes :)
+I'm Mohammad a boring studend of Aerospace engineering that love to program in the most stupid way and create very bad codes :)
 
 
 <!---
