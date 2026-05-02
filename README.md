@@ -1,8 +1,6 @@
 smile :)
 
 
-I'm Mohammad a boring student of Aerospace engineering that love to program in the most stupid way and create very bad codes :)
-
 
 <!---
 nafirdev/nafirdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
